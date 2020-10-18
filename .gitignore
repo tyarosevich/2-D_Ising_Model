@@ -9,3 +9,7 @@
 *.png
 *.tar
 *.synctex
+*.pdf
+!amath_481_project.pdf
+*.txt
+*.tex
