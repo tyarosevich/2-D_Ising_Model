@@ -10,7 +10,7 @@
 *.tar
 *.synctex
 *.pdf
-!amath_481_project.pdf
+!Ising_Model_Presentation.pdf
 *.txt
 *.tex
 *.bib
